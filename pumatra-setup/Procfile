@@ -1,0 +1,1 @@
+web: PORT=8000 bundle exec puma -C config/puma.rb config/config.ru
